@@ -2,7 +2,7 @@
 the project is fully designed and integrated using front end and back end frame work.
 #In this project I used bootstrap for front end design and PHP script to make the client interact with the MYSQLI database.
 
-====================================== procedures to start with this project ===============================
+=============== procedures to start with this project ========
 
 1. first download the zip file from this repository and extract it.
 2. if you do not have XAMPP, download it from https://www.apachefriends.org/download.html and install on your computer
@@ -12,7 +12,7 @@ the project is fully designed and integrated using front end and back end frame 
 6. finally open the browser and search for localhost/school_meal
 7. you will get the login page
 
-   #====================================== Authentication============================================
+   #============== Authentication ===========
 
    1. cafeadmin
       username: cafeadmin
